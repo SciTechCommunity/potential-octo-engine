@@ -6,11 +6,14 @@
 - Multiple Platforms
 - Multiple Servers
 - All together as one
+
 ## An Experimental Project
 We want people with different backgrounds, levels of experience, and preferred languages to be able to work together on an appropriately sized project. Everyone in CSST is welcome, **NAY** encouraged, to join. The Project? **_A Social Gaming Network!_**
+
 ## The Setup
 Users will be able to join one of 2 teams and duke it out in popular games such as Ultimate Tic-Tac-Toe, Chess, Uno, and more! *The catch?* We're doing this "Twitch Plays" style!  
 Everyone can submit their move from their app. After all or most of the players moves have been sent, a move will be picked by _Popularity_ (**Democracy**) or _at Random_ (**Anarchy**). Then the move will be processed by a Game Server and the users will be updated.
+
 ## How the Shit!?
 1. There is a _User_ **U**.
 2. **U** sends a mostly valid move to a _Server_ **X**.
@@ -23,8 +26,10 @@ Everyone can submit their move from their app. After all or most of the players 
 7. **B** performs a final validation step and then plays the move.
 8. **B** passes the new game state and the chosen move to **S**.
 9. Once **S** has finally changed, **U** updates the game info.
+
 ## Who, What, When, Where, and Why?
 Well we are going to need a few sets of people to iron out this chain. As of **right now**, we need people for these things:
+
 ### Users U
 - **UI/UX Design**:  _Not Taken_
 - **User Input Processing (Desktop)**:  _@ShadowfeindX_
@@ -33,18 +38,24 @@ Well we are going to need a few sets of people to iron out this chain. As of **r
 - **Data Modeling**:  _Not Taken_
 - **Data Metrics**:  _Not Taken_
 - **Networking**:  _@ShadowfeindX_
+
 ### Server X
 - **User Validation**:  _Not Taken_
 - **Move Validation**:  _Not Taken_
+
 ### Server Q
 - **Move Aggregation**:  _@artemis_
+
 ### Server D
 - **Database Management**:  _Not Taken_
+
 ### Servers B
 - **Game Logic (Tic-Tac-Toe)**:  _Not Taken_
 - **Game Logic (ULTIMATE Tic-Tac-Toe)**:  _Not Taken_
+
 ### Servers S
 - **Advanced Data Modeling (Tic-Tac-Toe)**:  _Not Taken_
 - **Advanced Data Modeling (ULTIMATE Tic-Tac-Toe)**:  _Not Taken_
+
 ## TODO List
 - _Literally Everything...._
