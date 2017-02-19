@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Terrible Idea
 
 You can use the [editor on GitHub](https://github.com/ShadowfeindX/potential-octo-engine/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
