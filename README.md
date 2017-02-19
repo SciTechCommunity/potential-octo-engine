@@ -12,6 +12,7 @@ We want people with different backgrounds, levels of experience, and preferred l
 
 ## The Setup
 Users will be able to join one of 2 teams and duke it out in popular games such as Ultimate Tic-Tac-Toe, Chess, Uno, and more! *The catch?* We're doing this "Twitch Plays" style!  
+
 Everyone can submit their move from their app. After all or most of the players moves have been sent, a move will be picked by _Popularity_ (**Democracy**) or _at Random_ (**Anarchy**). Then the move will be processed by a Game Server and the users will be updated.
 
 ## How the Shit!?
