@@ -33,19 +33,20 @@ Well we are going to need a few sets of people to iron out this chain. As of **r
 
 ### Users U
 - **UI/UX Design**:  _Not Taken_
-- **User Input Processing (Desktop)**:  _@ShadowfeindX_
-- **User Input Processing (Mobile)**:  _@ShadowfeindX_
+- **User Input Processing (Desktop)**: **_@ShadowfeindX_**[![GitHub_Icon]][Shadow_GitHub][![Tumblr_Icon]][Shadow_Tumblr]
+- **User Input Processing (Mobile)**: **_@ShadowfeindX_**[![GitHub_Icon]][Shadow_GitHub][![Tumblr_Icon]][Shadow_Tumblr]
 - **User Input Processing (Web)**:  _Not Taken_
 - **Data Modeling**:  _Not Taken_
 - **Data Metrics**:  _Not Taken_
-- **Networking**:  _@ShadowfeindX_
+- **Networking**:  **_@ShadowfeindX_**[![GitHub_Icon]][Shadow_GitHub][![Tumblr_Icon]][Shadow_Tumblr]
+
 
 ### Server X
 - **User Validation**:  _Not Taken_
 - **Move Validation**:  _Not Taken_
 
 ### Server Q
-- **Move Aggregation**:  _@artemis_
+- **Move Aggregation**:  **_@artemis_**[![GitHub_Icon]][Artemis_GitHub]
 
 ### Server D
 - **Database Management**:  _Not Taken_
@@ -60,3 +61,15 @@ Well we are going to need a few sets of people to iron out this chain. As of **r
 
 ## TODO List
 - _Literally Everything...._
+
+## Contributors
+[GitHub_Icon]: GitHub.png
+[Tumblr_Icon]: Tumblr.png
+
+[Import_GitHub]: https://github.com/incomingstick "Import's GitHub"
+[Artemis_GitHub]: https://github.com/ashfordneil "Artemis' GitHub"
+[Shadow_GitHub]: https://github.com/ShadowfeindX "Shadow's GitHub"
+[Shadow_Tumblr]: https://www.tumblr.com/blog/lifeofpi "Shadow's Blog"
+- **_@import_os_**[![GitHub_Icon]][Import_GitHub]
+- **_@artemis_**[![GitHub_Icon]][Artemis_GitHub]
+- **_@ShadowfeindX_**[![GitHub_Icon]][Shadow_GitHub][![Tumblr_Icon]][Shadow_Tumblr]
